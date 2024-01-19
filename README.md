@@ -23,3 +23,29 @@ There was one column with a mistake in the name spelling, which I corrected.
 Three columns had `NaN` values for which there were reasonable conversion to make.
 
 Finally, there were a set of Pokemon with missing height and weight values. I looked up these missing values manually, plugged them into two separate lists and then merged those into the original dataset.
+
+## Analysing defence
+
+I wanted to examine Pokemon statistics to look for interest. Perhaps correlation between type and stats. Or distributions of stats across generations.
+
+I focused first on examining the defence stat.
+
+Determining the mean, median and modal values for this stat. They are:
+
+```js
+{
+    mean: 73,
+    median: 70,
+    mode: 50
+}
+```
+
+Then I mapped a bar chart of all defence stats.
+
+![Alt text](assets/all-defence.png)
+
+There seemed to be a trend emerging from this graph. However, values occuring only a few times skews the data's representation. By examining the stat in intervals, we can see more distinctly that there is a clear trend around the lower end of the scale which gradually levels out as the stat peaks.
+
+![](assets/interval-defence.png)
+
+![A scatter plot mapping pokemons defence stat against their pokedex number. each dot is colored to coincide with that pokemon's type.](assets/scatter-plot-defence-pokemon.jpg)
