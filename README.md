@@ -56,7 +56,7 @@ Some interesting points here:
 - Next we start to see appearances of a few rock, ground, and water types with steel and bug appearing again
 
 We have a few outliers to the set of types we've seen already as we get further down. Examining these will be interesting. Looking at the graph, I can see that these outliers sit in two possible sets:
-- Having a defence value higher than 125
+- Pokemon with a defence value higher than 125
 - Top 25 Pokemon by defence
 
 So let's examine these.
