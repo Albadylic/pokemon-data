@@ -60,3 +60,20 @@ We have a few outliers to the set of types we've seen already as we get further 
 - Top 25 Pokemon by defence
 
 So let's examine these.
+
+### Pokemon with a defence value higher than 125
+
+
+| 1         | 2          | 3          | 4          | 5          |
+|-----------|------------|------------|------------|------------|
+| Golem     | Slowbro    | Cloyster   | Onix       | Forretress |
+| Steelix   | Scizor     | Shuckle    | Skarmory   | Tyranitar  |
+| Lugia     | Nosepass   | Lairon     | Aggron     | Torkoal    |
+| Dusclops  | Relicanth  | Salamence  | Metagross  | Regirock   |
+| Registeel | Groudon    | Bastiodon  | Rhyperior  | Leafeon    |
+| Probopass | Dusknoir   | Uxie       | Gigalith   | Audino     |
+| Cofagrigus| Carracosta | Ferrothorn | Cobalion   | Doublade   |
+| Carbink   | Avalugg    | Wishiwashi | Toxapex    | Golisopod  |
+| Pyukumuku | Turtonator | Cosmoem    | Buzzwole   | Kartana    |
+
+
