@@ -76,4 +76,7 @@ So let's examine these.
 | Carbink   | Avalugg    | Wishiwashi | Toxapex    | Golisopod  |
 | Pyukumuku | Turtonator | Cosmoem    | Buzzwole   | Kartana    |
 
+List of types, no leg:
+'rock' 'water' 'bug' 'steel' 'fire' 'ghost' 'dragon' 'ground' 'grass'
+ 'normal' 'ice' 'poison'
 
