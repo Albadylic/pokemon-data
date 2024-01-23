@@ -49,3 +49,14 @@ There seemed to be a trend emerging from this graph. However, values occuring on
 ![](assets/interval-defence.png)
 
 ![A scatter plot mapping pokemons defence stat against their pokedex number. each dot is colored to coincide with that pokemon's type.](assets/scatter-plot-defence-pokemon.jpg)
+
+Some interesting points here:
+- Left to right can help us examine the values across generations
+- The highest 3 values appear to be two steel types and a bug type
+- Next we start to see appearances of a few rock, ground, and water types with steel and bug appearing again
+
+We have a few outliers to the set of types we've seen already as we get further down. Examining these will be interesting. Looking at the graph, I can see that these outliers sit in two possible sets:
+- Having a defence value higher than 125
+- Top 25 Pokemon by defence
+
+So let's examine these.
