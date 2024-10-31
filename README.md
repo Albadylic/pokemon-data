@@ -6,6 +6,10 @@ This repository serves as my portfolio piece looking closely at a large set of d
 
 ![](https://media.giphy.com/media/G9qfCvxlwGAaQ/giphy.gif)
 
+Read more about this repository on LinkedIn:
+1. [Part one](https://www.linkedin.com/pulse/data-cleaning-pandas-gregor-thomson-gorae/?trackingId=4zmwSvCETZa3Al6DYn7btA%3D%3D)
+1. [Part two](https://www.linkedin.com/pulse/data-visualisation-matplotlib-gregor-thomson-jwe0e/?trackingId=rZFx0bskTQqMw5s1Juk5DQ%3D%3D)
+
 ## Data set
 
 - The dataset is from kaggle
